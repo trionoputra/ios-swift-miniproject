@@ -11,6 +11,7 @@ This is my first iOS project made with Swift and Xcode, I'm currently trying to 
 * Navigation Controller
 * Listview with UITableView
 * Constraint Layouting
+* Dependency Manager (CocoaPods) 
 
 <img src="page1.png" width="200" alt="ios mini project"></img>
 <img src="page2.png" width="200" alt="ios mini project"></img>
